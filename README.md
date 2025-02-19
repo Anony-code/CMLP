@@ -1,6 +1,6 @@
 # CMLP
 
-This code is based on [CGBL](https://github.com/QueuQ/CGLB/tree/master).
+This code is implemented based on [CGBL](https://github.com/QueuQ/CGLB/tree/master).
 
 # Requirement
 
